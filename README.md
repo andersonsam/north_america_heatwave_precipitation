@@ -2,7 +2,7 @@
 
 This code accompanies the paper: 
 
-Anderson, Sam and Chartrand, Shawn. "On the precipitation characteristics of North American heatwaves." (in review) 
+Anderson, Sam and Chartrand, Shawn. "On the mean precipitation characteristics of North American heatwaves." (2025) 
 
 ## Overview 
 
